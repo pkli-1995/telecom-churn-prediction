@@ -10,5 +10,5 @@ This project predicts customer churn for a telecom company using machine learnin
 3. Run all cells to see predictions
 
 ## Results
-- Achieved an accuracy of XX%
+- Achieved an accuracy of 92.3%
 - Identified key churn factors using feature importance analysis
